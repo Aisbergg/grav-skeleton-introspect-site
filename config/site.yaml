@@ -1,0 +1,12 @@
+title: introspect
+author:
+  name: Wolfram Fränze
+  email: 'mail@domain.tld'
+  copyright: "2018 Introspect"
+taxonomies: [category,tag]
+blog:
+  route: '/blog'
+metadata:
+  description: 'My Introspect Site'
+summary:
+  size: 300
